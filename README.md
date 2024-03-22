@@ -1,4 +1,4 @@
-<h1><i>Hello,It's Deeksha Gupta😊</i>i></h1><br>
+<h1>Hello,It's Deeksha Gupta😊</h1><br>
 
 <h1><b>About Me 🌻</b></h1><br>
 
