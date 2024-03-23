@@ -6,7 +6,7 @@
 <br>2. 👩‍💻Passionate about programming and data analyst
 <br>3. 🌈Finds joy in solving problems and exploring new technologies
 <br>4.😊 Enjoying to explre the world of coding
-<Br>5.[Portfolio](http://127.0.0.1:5500/hellofolder/index.html)
+
 
 
 ## 💻Things I Enjoy Working On
